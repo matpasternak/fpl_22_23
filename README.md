@@ -1,5 +1,5 @@
 ﻿# Fantasy Premier League  2022/2023 season analysis
-Data analysis of 2022/2023 season in Fantasy Premier League which is a game based on  a real events in the Premier League. 
+Data analysis of 2022/2023 season in Fantasy Premier League which is a game based on  a real events in the Premier League.  Made by using Python, Jupyter. Used packages: Pandas, Matplotlib, GGplot, Seaborn and adjustText.
 
 ## About the game:
 Fantasy Premier League (FPL) is a game played by 10m+ people globally and is a game which is base on a real action in Premier League. Your goal is to build most point team. Each manager of a team are selecting 15 players from all of the teams in Premier League and scores points. Each FPL manager is given a starting budget of £100 million and must pick a total of 15 players: 2 goalkeepers, 5 defenders, 5 midfielders and 3 forwards. You are limited to a maximum of three players from each Premier League team. Players in your team score points based on real-life performances with the main contributors to points totals being goals, assists (attacking side) and cleansheets(cs) (defensive side). Players can also lost their points for cards or own goal. 
@@ -48,8 +48,8 @@ The project is splitted by two Jupyter Notebooks.
 	4. Selecting most optimal squads.
 
 ## Sources
-1. Data used for this project is from Anand Vaastav [FPL Historical Dataset](https://github.com/vaastav/Fantasy-Premier-League)
-2. Small library  [adjustText](https://github.com/Phlya/adjustText)  used for this project to automatic label placement for  `matplotlib` .
+1. Data used for this project is from Anand Vaastav [FPL Historical Dataset](https://github.com/vaastav/Fantasy-Premier-League).
+2. Small library  [adjustText](https://github.com/Phlya/adjustText)  used for this project to automatic label placement for  `matplotlib`.
 
 
 
